@@ -1,1 +1,1 @@
-# big-ticket-app
+# react-ticket-app
